@@ -1,7 +1,7 @@
 # DSA Practice Collection — C++
 
 Beginner DSA programs in C++ covering Arrays, Sorting, Searching, Patterns, Strings, and Math.
-Built during B.E. CSE Semester 2 at NLJIET, Ahmedabad.
+Built during B.E. CSE Semester 2
 
 ## Topics Covered
 - Arrays (reverse, max/min, duplicates, second largest)
